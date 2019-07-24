@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lib</string>
+    <string name="UPDATE_INTERVAL_MS">1000</string>
+</resources>
